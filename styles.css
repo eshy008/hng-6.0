@@ -1,0 +1,111 @@
+
+.container {
+  width: 100%;
+  align-items: center;
+  background: #ffffff;
+  border-radius: 4em;
+  padding: 3em;
+  height: 77em;
+}
+
+body{
+  border-radius: 40em;
+  border: 10em;
+  padding-left: 9em;
+  padding-right: 10em; 
+  margin: 1em 1em 1em 1em;
+  width: 60%;
+  text-align: center;
+  background-color: beige;
+}
+
+.text1{
+  text-align: right;
+  justify-content: left;
+}
+
+.img1{
+  position: absolute;
+  top: 5em;
+  left: 15em;
+}
+
+.right1nav{
+  position: absolute;
+  top: 18em;
+  left: 10em;
+  width: 25em; 
+  border-bottom: thin dotted;
+}
+
+.right2nav{
+  position: absolute;
+  top: 45em;
+  left: 10em;
+  width: 25em;
+  border-bottom: thin dotted;
+}
+
+.right3nav{
+  position: absolute;
+  top: 61em;
+  left: 10em;
+  width: 25em;
+  border-bottom: thin dotted;
+}
+
+.left1nav{
+  position: absolute;
+  top: 18em;
+  left: 40em;
+  width: 18em;
+  border-bottom: thin dotted;
+}
+
+.left2nav{
+  position: absolute;
+  top: 44em;
+  left: 40em;
+  width: 18em;
+  border-bottom: thin dotted;
+}
+
+h1{
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: blue;
+  font-size: 2.5em;
+}
+
+h3{
+  font-family: 'Times New Roman', Times, serif;
+  color: rgb(0, 17, 255);
+}
+
+hr{
+  color: pink;
+}
+
+.icons{
+  position: absolute;
+  top: 10em;
+  left: 27em;
+  padding: 2em;
+  margin: 3em;
+  display: inline;
+  list-style: none;
+  display: inline;
+  list-style-type: none;
+}
+
+/* .nav ul{
+  display: inline-block;
+  text-align: center;
+  list-style: none;
+  margin-top: 30em;
+  flex-direction: row;
+} */
+
+footer{
+  color: rgb(0, 110, 255);
+  margin-top: 1em;
+}
